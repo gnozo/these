@@ -1,6 +1,6 @@
 # Outils de pierre taillée et récursivité
 
-[Anne-Marie Clappier, Carine Marande, Jacques Pelegrin and Priscille Chapuis, _Les silex de Vassieux-en-Vercors, de l’atelier de taille à l’enfouissement_, ](https://journals.openedition.org/nda/4032)
+[Anne-Marie Clappier, Carine Marande, Jacques Pelegrin and Priscille Chapuis, _Les silex de Vassieux-en-Vercors, de l’atelier de taille à l’enfouissement_, 2018, Les nouvelles de l'archéologie 151](https://journals.openedition.org/nda/4032)
 
 [Iain Davidson, _The finished artefact fallacy: Acheulean handaxes and language origins_ , January 2002, _Transitions to language_, Oxford University Press](https://www.researchgate.net/publication/256384778_The_finished_artefact_fallacy_Acheulean_handaxes_and_language_origins)
 
