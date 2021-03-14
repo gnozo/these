@@ -12,9 +12,7 @@
 
 [Ceri Shipton, _Three stages in the evolution of human cognition_, August 2020, _Handbook of Cognitive Archaeology: Psychology in Prehistory_ ](https://www.researchgate.net/publication/343486101_Three_stages_in_the_evolution_of_human_cognition)
 
-[Ceri Shipton, Chris Clarkson, _Generativity, hierarchical action and recursion in the technology of the Acheulean to Middle Palaeolithic transition: A perspective from Patpara, the Son Valley, India_, June 2013, Journal of Human Evolution]
-
-(https://www.researchgate.net/publication/237094795_Generativity_hierarchical_action_and_recursion_in_the_technology_of_the_Acheulean_to_Middle_Palaeolithic_transition_A_perspective_from_Patpara_the_Son_Valley_India)
+[Ceri Shipton, Chris Clarkson, _Generativity, hierarchical action and recursion in the technology of the Acheulean to Middle Palaeolithic transition: A perspective from Patpara, the Son Valley, India_, June 2013, Journal of Human Evolution](https://www.researchgate.net/publication/237094795_Generativity_hierarchical_action_and_recursion_in_the_technology_of_the_Acheulean_to_Middle_Palaeolithic_transition_A_perspective_from_Patpara_the_Son_Valley_India)
 
 
 # Vidéos
