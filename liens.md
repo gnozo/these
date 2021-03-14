@@ -19,4 +19,4 @@
 
 [Jacques Pelegrin, _Faire parler les pierres de la Préhistoire_, 2020](https://www.youtube.com/watch?v=OaNWAy-P_x8&list=PLq897QnkaivHffZ8JElvDXaQrBGv93ewd)
 
-[Jacques Tixier, interviews par le Pôle Préhistoire, 2016](https://vimeo.com/154367158)
+[Jacques Tixier, interviews par le Pôle Préhistoire, 2016](https://pole-prehistoire.com/fr/decouvrir/les-ressources-en-ligne/les-temoins-de-la-prehistoire/90-portail-les-temoins-de-la-prehistoire/les-temoins-de-la-prehistoire/309-jacques-tixier)
